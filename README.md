@@ -1,3 +1,4 @@
-Projeto de BuscaClima
+PROJETO DE BUSCACLIMA 
 
-Projeto feito em javascript puro.
+
+feito em javascript puro.
